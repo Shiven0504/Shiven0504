@@ -1,4 +1,4 @@
-![](github-header-image.png)
+![](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Shiven Garia</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
