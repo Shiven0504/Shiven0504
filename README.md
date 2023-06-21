@@ -1,12 +1,8 @@
-![](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![Header](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Shiven Garia</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiven0504&label=Profile%20views&color=0e75b6&style=flat" alt="shiven0504" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiven0504" alt="shiven0504" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shivengaria" target="blank"><img src="https://img.shields.io/twitter/follow/shivengaria?logo=twitter&style=for-the-badge" alt="shivengaria" /></a> </p>
 
 - 🔭 I’m currently working on **React Frameworks**
 
